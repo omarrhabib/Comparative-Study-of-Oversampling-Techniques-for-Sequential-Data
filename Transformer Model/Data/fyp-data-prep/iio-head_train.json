@@ -1,0 +1,20 @@
+{"instruction":"Pass ExternalQuiz","input":"","output":"0"}
+{"instruction":"Pass ExternalQuiz","input":"0 ","output":"0"}
+{"instruction":"Pass ExternalQuiz","input":"0 0 ","output":"0"}
+{"instruction":"Pass ExternalQuiz","input":"0 0 0 ","output":"0"}
+{"instruction":"Pass DataPlus","input":"","output":"0"}
+{"instruction":"Pass DataPlus","input":"0 ","output":"0"}
+{"instruction":"Pass DataPlus","input":"0 0 ","output":"0"}
+{"instruction":"Pass DataPlus","input":"0 0 0 ","output":"0"}
+{"instruction":"Pass DualPlus","input":"","output":"0"}
+{"instruction":"Pass DualPlus","input":"0 ","output":"0"}
+{"instruction":"Pass DualPlus","input":"0 0 ","output":"0"}
+{"instruction":"Pass DualPlus","input":"0 0 0 ","output":"0"}
+{"instruction":"Pass Folder","input":"","output":"0"}
+{"instruction":"Pass Folder","input":"0 ","output":"0"}
+{"instruction":"Pass Folder","input":"0 0 ","output":"0"}
+{"instruction":"Pass Folder","input":"0 0 0 ","output":"0"}
+{"instruction":"Pass Forumng","input":"","output":"35"}
+{"instruction":"Pass Forumng","input":"35 ","output":"6"}
+{"instruction":"Pass Forumng","input":"35 6 ","output":"6"}
+{"instruction":"Pass Forumng","input":"35 6 6 ","output":"20"}
