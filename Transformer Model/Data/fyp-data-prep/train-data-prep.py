@@ -9,7 +9,7 @@ iio = pd.DataFrame(columns=["instruction", "input", "output"])
 for index, row in df.iterrows():
   #358980
   if (index%193 == 0):
-    clear_output(wait=True)
+    #clear_output(wait=True)
     print(str(index+1) + "/358980\n")
     percent = int((index+1)/358980 * 100)
   
